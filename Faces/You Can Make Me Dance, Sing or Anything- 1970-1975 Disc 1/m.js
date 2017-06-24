@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Wicked Messenger.mp3";		
+f[2]	= "02 Devotion.mp3";		
+f[3]	= "03 Shake, Shudder, Shiver.mp3";		
+f[4]	= "04 Stone.mp3";		
+f[5]	= "05 Around the Plynth.mp3";		
+f[6]	= "06 Flying.mp3";		
+f[7]	= "07 Pineapple and the Monkey.mp3";		
+f[8]	= "08 Nobody Knows.mp3";		
+f[9]	= "09 Looking Out the Window.mp3";		
+f[10]	= "10 Three Button Hand Me Down.mp3";		
+f[11]	= "11 Behind the Sun [_][-][Outtake].mp3";		
+f[12]	= "12 Mona- The Blues [_][-][Outtake][Outtake][Take].mp3";		
+f[13]	= "13 Shake, Shudder, Shiver [_][-][BBC Session][Version].mp3";		
+f[14]	= "14 Flying [_][-][Take][Take 3].mp3";		
+f[15]	= "15 Nobody Knows [_][-][Take][Take 2].mp3";		
