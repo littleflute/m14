@@ -1,4 +1,4 @@
-[v0.0.3](https://github.com/littleflute/m14/edit/master/README.md)
+[v0.0.4](https://github.com/littleflute/m14/edit/master/README.md)
 
 [142/cd1](142/cd1)
 
@@ -13,4 +13,6 @@
 [Faces/You Can Make Me Dance, Sing or Anything- 1970-1975 Disc 4](Faces/You Can Make Me Dance, Sing or Anything- 1970-1975 Disc 4)
 
 [Faces/You Can Make Me Dance, Sing or Anything- 1970-1975 Disc 5](Faces/You Can Make Me Dance, Sing or Anything- 1970-1975 Disc 5)
+
+[Flogging Molly (Musical group)/Life Is Good](Flogging Molly (Musical group)/Life Is Good)
 
