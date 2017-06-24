@@ -1,0 +1,11 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Pool Hall Richard [2006 Remastered Single Version][Version].mp3";		
+f[2]	= "02 I Wish It Would Rain (With a Trumpet) [Live at Reading Festival, August.mp3";		
+f[3]	= "03 Rear Wheel Skid [Remastered Single Version][Version].mp3";		
+f[4]	= "04 Maybe I'm Amazed [Remastered Single Version][Version].mp3";		
+f[5]	= "05 Oh Lord I'm Browned Off [Remastered Single Version][Version].mp3";		
+f[6]	= "06 You Can Make Me Dance, Sing or Anything (Even Take the Dog for a Walk,.mp3";		
+f[7]	= "07 As Long as You Tell Him [Single Version][Version].mp3";		
+f[8]	= "08 Skewiff (Mend the Fuse) [Remastered Single Version][Version].mp3";		
+f[9]	= "09 Dishevelment Blues [Remastered Single Version][Version].mp3";		
