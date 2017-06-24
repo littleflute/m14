@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Bad 'n' Ruin.mp3";		
+f[2]	= "02 Tell Everyone.mp3";		
+f[3]	= "03 Sweet Lady Mary.mp3";		
+f[4]	= "04 Richmond.mp3";		
+f[5]	= "05 Maybe I'm Amazed [Live].mp3";		
+f[6]	= "06 Had Me a Real Good Time.mp3";		
+f[7]	= "07 On the Beach.mp3";		
+f[8]	= "08 I Feel So Good [Live].mp3";		
+f[9]	= "09 Jerusalem.mp3";		
+f[10]	= "10 Whole Lotta Woman [_][-][Outtake][Outtake][Take].mp3";		
+f[11]	= "11 Tell Everyone [_][-][Take][Take 1].mp3";		
+f[12]	= "12 Sham-Mozzal [_][-][Instrumental][Instrumental-Outtake][Outtake][Take].mp3";		
+f[13]	= "13 Too Much Woman [-][Live][Live].mp3";		
+f[14]	= "14 Love in Vain [-][Live][Live].mp3";		
