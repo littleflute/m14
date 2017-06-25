@@ -1,4 +1,4 @@
-[v0.0.4](https://github.com/littleflute/m14/edit/master/README.md)
+[v0.0.5](https://github.com/littleflute/m14/edit/master/README.md)
 
 [142/cd1](142/cd1)
 
@@ -16,3 +16,4 @@
 
 [Flogging Molly (Musical group)/Life Is Good](Flogging Molly (Musical group)/Life Is Good)
 
+[Tenacious D/The Pick of Destiny](Tenacious D/The Pick of Destiny)
